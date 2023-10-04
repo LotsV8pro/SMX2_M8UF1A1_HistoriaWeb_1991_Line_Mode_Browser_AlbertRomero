@@ -4,7 +4,6 @@
 
 ## <span style="color: #6A0DAD; text-decoration: underline;">**Desarrollo por <a href="https://ca.wikipedia.org/wiki/Nicola_Pellow" target="_blank">Nicola Pellow</a>**</span>
 
-
 <p style="text-align: justify; color: black;">Nicola Pellow, una estudiante de la Universidad de Oxford, fue la responsable de desarrollar este navegador en 1991. Su trabajo fue fundamental para facilitar el acceso temprano a la World Wide Web.</span>
 
 ![Imagen Nicola Pellow][Nicola Pellow]
@@ -41,6 +40,3 @@
 
 [Nicola Pellow]: https://github.com/LotsV8pro/SMX2_M8UF1A1_HistoriaWeb_1991_Line_Mode_Browser_AlbertRomero/blob/main/Imagenes/NPellow.jpg?raw=true "Nicola Pellow"
 <!-- Enlazes de redireccion-->
-
-
-[def]: ttps://es.wikipedia.org/wiki/Line_Mode_Browser*
