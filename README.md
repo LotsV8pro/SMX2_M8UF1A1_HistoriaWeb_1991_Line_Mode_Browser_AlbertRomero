@@ -1,8 +1,8 @@
-## <span style="color: #6A0DAD; text-decoration: underline;">**[Line Mode Browser](https://es.wikipedia.org/wiki/Line_Mode_Browser){:target="_blank"} (Navegador en Modo de Línea):**</span>
+## <span style="color: #6A0DAD; text-decoration: underline;"><a href="[def]" target=" blank"> Line Mode Browser</a>(Navegador en Modo de Línea): </span>
 
 <p style="text-align: justify; color: black;">El Line Mode Browser fue uno de los primeros navegadores web desarrollados. A diferencia de los navegadores modernos con interfaces gráficas, el Line Mode Browser funcionaba en modo de texto, lo que significa que los usuarios interactuaban con él a través de comandos de texto en lugar de hacer clic en elementos visuales.</span>
 
-## <span style="ccolor: #6A0DAD; text-decoration: underline;">**Desarrollo por [Nicola Pellow](https://ca.wikipedia.org/wiki/Nicola_Pellow){:target="_blank"}:**</span>
+## <span style="color: #6A0DAD; text-decoration: underline;">**Desarrollo por <a href="https://ca.wikipedia.org/wiki/Nicola_Pellow" target="_blank">Nicola Pellow</a>**</span>
 
 
 <p style="text-align: justify; color: black;">Nicola Pellow, una estudiante de la Universidad de Oxford, fue la responsable de desarrollar este navegador en 1991. Su trabajo fue fundamental para facilitar el acceso temprano a la World Wide Web.</span>
@@ -40,3 +40,7 @@
 [Line Browser 1]: https://github.com/LotsV8pro/SMX2_M8UF1A1_HistoriaWeb_1991_Line_Mode_Browser_AlbertRomero/blob/main/Imagenes/Line%20Mode%20Browser%201.png?raw=true "Line Mode Browser navegador"
 
 [Nicola Pellow]: https://github.com/LotsV8pro/SMX2_M8UF1A1_HistoriaWeb_1991_Line_Mode_Browser_AlbertRomero/blob/main/Imagenes/NPellow.jpg?raw=true "Nicola Pellow"
+<!-- Enlazes de redireccion-->
+
+
+[def]: ttps://es.wikipedia.org/wiki/Line_Mode_Browser*
