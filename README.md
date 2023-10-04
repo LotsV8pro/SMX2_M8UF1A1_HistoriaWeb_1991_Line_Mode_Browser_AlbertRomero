@@ -26,7 +26,7 @@
 
 ## <span style="color: #6A0DAD; text-decoration: underline;">**Resumen:**</span>
 
-<p style="text-align: justify; color: black;">En resumen, el *Line Mode Browser* desarrollado por Nicola Pellow en mayo de 1991 fue un navegador web pionero en modo de texto que se destacó por su simplicidad y capacidad de ser portado a varios sistemas operativos, lo que lo convirtió en una herramienta popular en los primeros días de la World Wide Web.</span>
+<p style="text-align: justify; color: black;">En resumen, el Line Mode Browser desarrollado por Nicola Pellow en mayo de 1991 fue un navegador web pionero en modo de texto que se destacó por su simplicidad y capacidad de ser portado a varios sistemas operativos, lo que lo convirtió en una herramienta popular en los primeros días de la World Wide Web.</span>
 
 ![Imagen Final de presentacion][Final]
 
