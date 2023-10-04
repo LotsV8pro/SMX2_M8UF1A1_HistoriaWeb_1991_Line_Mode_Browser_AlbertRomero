@@ -39,4 +39,3 @@
 [Line Browser 1]: https://github.com/LotsV8pro/SMX2_M8UF1A1_HistoriaWeb_1991_Line_Mode_Browser_AlbertRomero/blob/main/Imagenes/Line%20Mode%20Browser%201.png?raw=true "Line Mode Browser navegador"
 
 [Nicola Pellow]: https://github.com/LotsV8pro/SMX2_M8UF1A1_HistoriaWeb_1991_Line_Mode_Browser_AlbertRomero/blob/main/Imagenes/NPellow.jpg?raw=true "Nicola Pellow"
-<!-- Enlazes de redireccion-->
