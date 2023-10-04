@@ -30,6 +30,8 @@
 
 ![Imagen Final de presentacion][Final]
 
+<!-- A partir de aqui se pondran las imagenes solo con def para organizar-->
+
 [Final]: https://github.com/LotsV8pro/SMX2_M8UF1A1_HistoriaWeb_1991_Line_Mode_Browser_AlbertRomero/blob/main/Final.png?raw=true "Final"
 [Line browser 2]: https://github.com/LotsV8pro/SMX2_M8UF1A1_HistoriaWeb_1991_Line_Mode_Browser_AlbertRomero/blob/main/Line%20Mode%20Browser%202.png?raw=true "Line Mode Browser"
 [Line Browser 1]: https://github.com/LotsV8pro/SMX2_M8UF1A1_HistoriaWeb_1991_Line_Mode_Browser_AlbertRomero/blob/main/Line%20Mode%20Browser%201.png?raw=true "Line Mode Browser navegador"
