@@ -18,8 +18,6 @@
 
 <p style="text-align: justify; color: black;">A pesar de su limitado conjunto de características en comparación con los navegadores web modernos, el Line Mode Browser fue muy popular en sus primeros días, ya que brindaba a las personas una forma de acceder al contenido web en una época en la que la web estaba en sus primeras etapas de desarrollo.</span>
 
-![Imagen crecimiento popularidad de el navegador]()
-
 ## <span style="color: #6A0DAD; text-decoration: underline;">**Contribución al Desarrollo Web:**</span>
 
 <p style="text-align: justify; color: black;">El Line Mode Browser desempeñó un papel importante en la historia de la web al brindar a las personas una forma accesible de explorar la web en sus inicios. Ayudó a sentar las bases para el desarrollo de navegadores web más avanzados y la expansión de la web como plataforma global.</span>
