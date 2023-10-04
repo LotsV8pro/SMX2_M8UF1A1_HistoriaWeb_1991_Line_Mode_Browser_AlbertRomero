@@ -1,4 +1,4 @@
-## <span style="color: #6A0DAD; text-decoration: underline;"><a href="[def]" target=" blank"> Line Mode Browser</a>(Navegador en Modo de Línea): </span>
+## <span style="color: #6A0DAD; text-decoration: underline;"><a href="https://es.wikipedia.org/wiki/Line_Mode_Browser" target=" blank"> Line Mode Browser</a>(Navegador en Modo de Línea): </span>
 
 <p style="text-align: justify; color: black;">El Line Mode Browser fue uno de los primeros navegadores web desarrollados. A diferencia de los navegadores modernos con interfaces gráficas, el Line Mode Browser funcionaba en modo de texto, lo que significa que los usuarios interactuaban con él a través de comandos de texto en lugar de hacer clic en elementos visuales.</span>
 
