@@ -6,18 +6,28 @@
 
 <p style="text-align: justify; color: black;">Nicola Pellow, una estudiante de la Universidad de Oxford, fue la responsable de desarrollar este navegador en 1991. Su trabajo fue fundamental para facilitar el acceso temprano a la World Wide Web.</span>
 
+![Imagen Nicola Pellow]()
+
 ## <span style="color: #6A0DAD; text-decoration: underline;">**Simplicidad y Portabilidad:**</span>
 
 <p style="text-align: justify; color: black;">Una de las características más destacadas del Line Mode Browser fue su simplicidad y portabilidad. Debido a su diseño sencillo y al uso de texto en lugar de gráficos, era relativamente fácil de portar a diferentes sistemas operativos y plataformas. Esto permitió que una amplia variedad de usuarios pudiera acceder a la web incluso en sistemas más antiguos o menos comunes.</span>
+
+![Imagen de Line Mode Browser (1 o 2 max)]()
 
 ## <span style="color: #6A0DAD; text-decoration: underline;">**Popularidad Temprana:**</span>
 
 <p style="text-align: justify; color: black;">A pesar de su limitado conjunto de características en comparación con los navegadores web modernos, el Line Mode Browser fue muy popular en sus primeros días, ya que brindaba a las personas una forma de acceder al contenido web en una época en la que la web estaba en sus primeras etapas de desarrollo.</span>
 
+![Imagen crecimiento popularidad de el navegador]()
+
 ## <span style="color: #6A0DAD; text-decoration: underline;">**Contribución al Desarrollo Web:**</span>
 
 <p style="text-align: justify; color: black;">El Line Mode Browser desempeñó un papel importante en la historia de la web al brindar a las personas una forma accesible de explorar la web en sus inicios. Ayudó a sentar las bases para el desarrollo de navegadores web más avanzados y la expansión de la web como plataforma global.</span>
 
+![Imagen de Line Mode Browser en busqueda]()
+
 ## <span style="color: #6A0DAD; text-decoration: underline;">**Resumen:**</span>
 
 <p style="text-align: justify; color: black;">En resumen, el *Line Mode Browser* desarrollado por Nicola Pellow en mayo de 1991 fue un navegador web pionero en modo de texto que se destacó por su simplicidad y capacidad de ser portado a varios sistemas operativos, lo que lo convirtió en una herramienta popular en los primeros días de la World Wide Web.</span>
+
+![Imagen Final de presentacion]()
