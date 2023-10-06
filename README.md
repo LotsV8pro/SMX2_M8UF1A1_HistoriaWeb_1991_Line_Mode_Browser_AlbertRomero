@@ -6,13 +6,19 @@
 
 <p style="text-align: justify; color: black;">Nicola Pellow, una estudiante de la Universidad de Oxford, fue la responsable de desarrollar este navegador en 1991. Su trabajo fue fundamental para facilitar el acceso temprano a la World Wide Web.</p>
 
-![Nicola Pellow]{style="display:block; margin:auto;"}
+<div style="text-align:center;">
+
+![Nicola Pellow]
+</div>
 
 ## <span style="color: #6A0DAD; text-decoration: underline;">**Simplicidad y Portabilidad:** </span>
 
 <p style="text-align: justify; color: black;">Una de las características más destacadas del Line Mode Browser fue su simplicidad y portabilidad. Debido a su diseño sencillo y al uso de texto en lugar de gráficos, era relativamente fácil de portar a diferentes sistemas operativos y plataformas. Esto permitió que una amplia variedad de usuarios pudiera acceder a la web incluso en sistemas más antiguos o menos comunes.</p>
 
-![Line Browser 1]{style="display:block; margin:auto;"}
+<div style="text-align:center;">
+
+![Line Browser 1]
+</div>
 
 ## <span style="color: #6A0DAD; text-decoration: underline;">**Popularidad Temprana:**</span>
 
@@ -25,7 +31,10 @@
 
 <p style="text-align: justify; color: black;">El Line Mode Browser desempeñó un papel importante en la historia de la web al brindar a las personas una forma accesible de explorar la web en sus inicios. Ayudó a sentar las bases para el desarrollo de navegadores web más avanzados y la expansión de la web como plataforma global.</p>
 
-![Line browser 2]{style="display:block; margin:auto;"}
+<div style="text-align:center;">
+
+![Line browser 2]
+</div>
 
 ## <span style="color: #6A0DAD; text-decoration: underline;">**Resumen:** </span>
 
